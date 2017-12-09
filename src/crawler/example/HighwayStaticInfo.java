@@ -12,7 +12,7 @@ public class HighwayStaticInfo {
 
 	public static void main(String[] args) {
 		
-		// 遠端資料路徑
+		// 遠端資料路徑1
 		String uri = "gz:http://tisvcloud.freeway.gov.tw/vd_value5.xml.gz";
 
 		System.out.println(
